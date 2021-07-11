@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @GoldcatGames
+- Hi, I’m @GoldcatGames
 - Im On Github Now!
+- I Use This For Data Dumps And More!
