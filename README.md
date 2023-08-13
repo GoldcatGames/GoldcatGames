@@ -1,3 +1,2 @@
-- Hi, I’m @GoldcatGames
-- Im On Github Now!
-- I Use This For Data Dumps And More!
+yo, i'm GoldcatDrewThis (formerly known as GoldcatGames).
+I'm putting all of my projects (programming related) on GitHub so that everything I do can be opensource.
